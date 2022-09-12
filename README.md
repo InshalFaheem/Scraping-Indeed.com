@@ -23,7 +23,7 @@ In this project jobs in Islamabad for Data analyst position were scraped and sav
 - Add Scrape Depth
 - Scrape & Parse words in a Post
 
-### Output 
+### Clean the dataset and show output 
  results are save in indeed_jobs.xlsx
 
  
